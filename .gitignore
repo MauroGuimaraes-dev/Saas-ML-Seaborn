@@ -66,8 +66,9 @@ data/
 datasets/
 raw_data/
 processed_data/
-models/
+saved_models/
 checkpoints/
+trained_models/
 
 # Logs and databases
 *.log
