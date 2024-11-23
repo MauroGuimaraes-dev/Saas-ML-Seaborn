@@ -1,5 +1,7 @@
 # Máquina Preditiva com Datasets Seaborn
 
+Este app, é um Saas que visa testar todos os Datasets da biblioteca Seaborn, usando diversos modelos preditivos com a possibilidade de manipulação de hiperparâmetros. O usuário vai escolher uma Dataset do Seaborn, vai escolher uma máquina preditiva e traçar o gráfico com o próprio Seaborn.
+
 Uma aplicação web interativa para análise de dados e machine learning, construída com Streamlit e scikit-learn, seguindo o padrão MVC (Model-View-Controller).
 
 ## Estrutura do Projeto
